@@ -31,6 +31,8 @@ Use os seguintes comandos para explorar o portfólio:
 * `habilidades.txt`
 * `projetos.txt`
 * `contato.txt`
+![comandos do terminal](imgs/ls.png)
+
 
 ## 🛠️ Tecnologias Utilizadas
 

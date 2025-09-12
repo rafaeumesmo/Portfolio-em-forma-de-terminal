@@ -2,8 +2,8 @@
 
 Este projeto é uma abordagem criativa e interativa para um portfólio pessoal, simulando a interface de um terminal de linha de comando. Através de comandos simples, os visitantes podem navegar pelas minhas informações, habilidades, projetos e formas de contato.
 
-## teste aqui \/
-![clique aqui](https://portfolio-em-forma-de-terminal.vercel.app/)
+## teste aqui  ⤵️
+![terminal-portfolio](https://portfolio-em-forma-de-terminal.vercel.app/)
 
 ## 🚀 Sobre o Projeto
 

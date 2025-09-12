@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rafael Severo — Portfólio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="scanline"></div>
+
+  <div class="terminal" id="terminal">
+    <div class="boot">
+      <p class="typing">Iniciando sistema...</p>
+      <p class="typing delay1">Carregando módulos...</p>
+      <p class="typing delay2">Bem-vindo, <span class="highlight">Rafael Severo</span></p>
+      <p class="typing delay3">Digite <span class="accent">help</span> para começar.</p>
+    </div>
+
+    <div class="output" id="output"></div>
+
+    <div class="input-line">
+      <span class="prompt">rafael@localhost:~$</span>
+      <input type="text" id="commandInput" autofocus autocomplete="off">
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

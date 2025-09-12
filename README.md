@@ -51,7 +51,7 @@ Por ser um projeto puramente front-end, você não precisa instalar nenhuma depe
 
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/rafaeumesmo/Portfolio-em-forma-de-terminal.git](https://github.com/rafaeumesmo/Portfolio-em-forma-de-terminal.git)
+    git clone https://github.com/rafaeumesmo/Portfolio-em-forma-de-terminal.git
     ```
 2.  Navegue até o diretório do projeto.
 3.  Abra o arquivo `index.html` em seu navegador de preferência.

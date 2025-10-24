@@ -27,7 +27,6 @@ Use os seguintes comandos para explorar o portfólio:
 * `clear` - Limpa o histórico de comandos da tela.
 ![comandos do terminal](imgs/help.png)
 
-
 ### Arquivos para explorar:
 
 * `sobre.txt`
